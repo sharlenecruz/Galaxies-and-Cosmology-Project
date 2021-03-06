@@ -1,3 +1,5 @@
+#The goal is to analyze data from the 2dF Galaxy Redshift Survey and create a 3-D plot of it
+#As well as, calculate the volume and mass density of the "slice" of universe represented in the data
 
 import numpy as np
 import matplotlib.pyplot as plt
